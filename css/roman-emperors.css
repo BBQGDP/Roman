@@ -3,7 +3,7 @@ p.first::first-letter {
 }
 
 main p:first-child {
-  font-style: oblique;
+  font-style: normal;
 }
 
 :root {
